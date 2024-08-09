@@ -16,9 +16,6 @@ Develop a Power BI report that provides a comprehensive analysis of employee att
 
 The Power BI report will feature interactive visualizations, enabling HR managers to filter and analyze data, uncover key trends, and make data-driven decisions to reduce attrition and improve employee retention.
 
-Certainly! Here's a description tailored to your HR data analytics report:
-
----
 
 ## DESCRIPTION :
 
